@@ -1,2 +1,0 @@
-Homicide visual used for Power BI interactive dashboard
-R codes contains the R codes used for the Statistical analysis
